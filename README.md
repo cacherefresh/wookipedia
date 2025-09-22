@@ -19,20 +19,36 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 ## Template/ overview: 
 (there is a template file at cacherefresh/wookapedia/CONTENT/!template.md)
 📂 project-root/
+
 ├── 📄 README.md
+
 ├── 📂 content/
+
 │ ├── 📂 health-and-wellbeing/
+
 │ │ ├── 📂 supplements/
+
 │ │ │ └── 📄 shilajit.md
+
 │ │
+
 │ ├── 📂 fitness/
+
 │ │ └── 📄 calisthenics.md
+
 │ │
+
 │ ├── 📂 emergency-preparedness/
+
 │ │ ├── 📄 cpr.md
+
 │ │ ├── 📄 storm-preparedness.md
+
 │ │ └── 📂 harm-reduction/
+
 │ │ └── 📄 drug-test-kit.md
+
+
 
 
 # ⚕ Health and Wellbeing
