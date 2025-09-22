@@ -12,6 +12,8 @@ then people can contribute that way.
 no one commits to sanctuary but me for now..and eventually admins. 
 If I'm the Founding GrandFather, 
 Raul (RenderOne) , and Joe are my two founding fathers of this ;)
+For Financial WellBeing I'll redirect to Ade(Doyin) 
+
 but yes, they are my brothers in arms, whom I wouldnt be able to have been my full self with all the knowledge I have without them both. One for knowledge and not the best with people skills, and one with the best of people skills that help create a world worth fighting for. through music. 
 brain - intelligence and tehcnology
 heart - health and nutirtion, diabetes.
@@ -64,9 +66,10 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 │ │ └── 📄 retirement-planning.md
 
 │
+📂 about-me/
+├── wook0 redirect to robert coffman
 
 📂 about-us/
-
 │
 
 ├── 📂 !america/
@@ -83,7 +86,7 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 
 │ │ ├── 📄 cache-refresh.md
 
-│ │ └── 📄 YuVi(UV).md
+│ │ └── 📄 YuVi(UV) aka the 2 of clubs - where we start.md
 
 │ │
 
@@ -91,7 +94,9 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 
 │ │ ├── 📄 joe.md
 
-│ │ └── 📄 raul-renderone.md
+│ │ ├── 📄 raul (RenderOne).md
+
+│ │ └── 📄 (Ade)Doyin Ogunbajo.md
 
 │ │
 
@@ -109,23 +114,33 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 
 ├── 📂 founding-grandfathers/
 
-│ ├── 📄 egypt.md
+│ ├── 📄 Egypt.md
 
-│ ├── 📄 greece and roman-empire.md
+│ ├── 📄 Greece and roman-empire.md
 
-│ └── 📄 italy and the vatican.md
+| ├── 📄 Africa, special note for Nigeria and South Africa.md
+
+│ └── 📄 Italy and the vatican.md
 
 │
 
-└── 📂 distant-cousins/
+├── 📂 distant-cousins/
 
-├── 📄 china.md
+│ ├── 📄 china.md
 
-├── 📄 japan.md
+│ ├── 📄 japan.md
 
-├── 📄 russia.md
+│ ├── 📄 russia.md
 
-└── 📄 saudi_arabia.md
+│ └── 📄 saudi_arabia.md
+
+└── 📂notable-mentions/
+
+├── adalovelace.md
+
+├── linustorvalds.md
+
+└── Hunter S. Thompson.md
 
 # ⚕ Health and Wellbeing
 
