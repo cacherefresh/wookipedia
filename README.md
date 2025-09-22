@@ -60,8 +60,69 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 
 │ │ └── 📄 retirement-planning.md
 
+│
 
+📂 about-us/
 
+│
+
+├── 📂 !america/
+
+│ ├── 📄 america.md ← "the constitution which is god given, not government authorized rights of all citizens"
+
+│ │
+
+│ ├── 📂 !founding-son(SUN)/
+
+│ │ └── 📂 !robert-coffman/
+
+│ │ ├── 📄 robert-coffman.md //both of us (RJC, RLC)
+
+│ │ ├── 📄 cache-refresh.md
+
+│ │ └── 📄 YuVi(UV).md
+
+│ │
+
+│ ├── 📂 founding-brothers/
+
+│ │ ├── 📄 joe.md
+
+│ │ └── 📄 raul-renderone.md
+
+│ │
+
+│ └── 📂 founding-fathers/
+
+│ ├── 📄 washington.md
+
+│ ├── 📄 jefferson.md
+
+│ ├── 📄 hamilton.md
+
+│ ├── 📄 franklin.md
+
+│ └── 📄 madison.md
+
+├── 📂 founding-grandfathers/
+
+│ ├── 📄 egypt.md
+
+│ ├── 📄 greece and roman-empire.md
+
+│ └── 📄 italy and the vatican.md
+
+│
+
+└── 📂 distant-cousins/
+
+├── 📄 china.md
+
+├── 📄 japan.md
+
+├── 📄 russia.md
+
+└── 📄 saudi_arabia.md
 
 # ⚕ Health and Wellbeing
 
