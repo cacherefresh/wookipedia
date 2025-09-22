@@ -12,7 +12,10 @@ then people can contribute that way.
 no one commits to sanctuary but me for now..and eventually admins. 
 If I'm the Founding GrandFather, 
 Raul (RenderOne) , and Joe are my two founding fathers of this ;)
-
+but yes, they are my brothers in arms, whom I wouldnt be able to have been my full self with all the knowledge I have without them both. One for knowledge and not the best with people skills, and one with the best of people skills that help create a world worth fighting for. through music. 
+brain - intelligence and tehcnology
+heart - health and nutirtion, diabetes.
+soul - music. and bringing peace on earth through love and solving problems together. so get on the same drum beat.
 Founding the wookipedia. 
 To be used to extend life, promote wellbeing, love thy neighbor mentality, knowledge is free to share. peace on earth, question everything. do your own research. provide research not opinion. give wise advice instead of worrying about being a hypocrite. 
 
