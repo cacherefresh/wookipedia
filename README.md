@@ -48,6 +48,18 @@ To be used to extend life, promote wellbeing, love thy neighbor mentality, knowl
 
 │ │ └── 📄 drug-test-kit.md
 
+│ │
+
+│ ├── 📂 financial-wellbeing/
+
+│ │ ├── 📄 budgeting.md
+
+│ │ ├── 📄 debt-management.md
+
+│ │ ├── 📄 investing-basics.md
+
+│ │ └── 📄 retirement-planning.md
+
 
 
 
